@@ -1,0 +1,29 @@
+[
+	{
+	"objectid":1,
+	"credTime":null,
+	"lastUpdTime":null,
+	"mnemonic":"KOL",
+	"creUserObjID":"81999",
+	"isActiveInd":1,
+	"city":"Kolkata",
+	"state":"West Bengal",
+	"zipcd":"700091",
+	"organisationID":1,
+	"hasNoRecords":false,
+	"description":null
+	},{
+	"objectid":2,
+	"credTime":1568458786000,
+	"lastUpdTime":null,
+	"mnemonic":"BLR",
+	"creUserObjID":"81999",
+	"isActiveInd":1,
+	"city":"Bangalore",
+	"state":"Karnataka",
+	"zipcd":"290011",
+	"organisationID":1,
+	"hasNoRecords":false,
+	"description":null
+	}
+]

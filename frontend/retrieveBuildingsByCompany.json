@@ -1,0 +1,54 @@
+[
+	{
+	"objectid":2,
+	"credTime":1568143630000,
+	"lastUpdTime":1568143630000,
+	"mnemonic":"KOL",
+	"description":"KOL MBBP Building",
+	"locationID":1,
+	"address":"NA",
+	"hasNoRecords":false,
+	"creUserObjID":"SC041311",
+	"isActiveInd":1,
+	"numberOfSlots":10
+	},{
+	"objectid":5,
+	"credTime":1568398477000,
+	"lastUpdTime":1568398477000,
+	"mnemonic":"KOL-B2",
+	"description":"KOL Magnum Building",
+	"locationID":1,
+	"address":"NA",
+	"hasNoRecords":false,
+	"creUserObjID":"81999",
+	"isActiveInd":1,
+	"numberOfSlots":12
+	},{
+	"objectid":23,
+	"credTime":1568401732000,
+	"lastUpdTime":1568401732000,
+	"mnemonic":"KOL-B228",
+	"description":"KOL Koedro Building",
+	"locationID":1,
+	"address":"Manipal Garden",
+	"hasNoRecords":false,
+	"creUserObjID":"81999",
+	"isActiveInd":1,
+	"numberOfSlots":30
+	},{
+	"objectid":36,
+	"credTime":1568458916000,
+	"lastUpdTime":1568458957000,
+	"mnemonic":"Manyata",
+	"description":"Manayata Bangalore",
+	"locationID":2,
+	"address":"NH 10 Swamy Street",
+	"hasNoRecords":false,
+	"creUserObjID":"81999",
+	"isActiveInd":1,
+	"numberOfSlots":125
+	}
+]
+	
+	
+	
